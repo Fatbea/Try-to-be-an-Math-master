@@ -7,7 +7,7 @@
 
 ## 📌 Basic Info
 
-This repository collects my notes and documents related to **NTU_EEE_ET**. The focus is on:
+This repository collects my notes and documents related to **Math required for PhD**. The focus is on:
 
 - [Probability Statistics](#-Probability-Statistics)
 - [Information Theory](#-Information-Theory)
